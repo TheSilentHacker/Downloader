@@ -1,6 +1,9 @@
 # 📥 Wget Download Links
-Generated on: Tue May 12 21:20:04 UTC 2026
+Generated on: Tue May 12 21:28:29 UTC 2026
 
+- [Download FunkHub.Setup.0.6.7.exe.z01](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/FunkHub.Setup.0.6.7.exe.z01)
+- [Download FunkHub.Setup.0.6.7.exe.z02](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/FunkHub.Setup.0.6.7.exe.z02)
+- [Download FunkHub.Setup.0.6.7.exe.zip](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/FunkHub.Setup.0.6.7.exe.zip)
 - [Download baddiesreloadedofficial-2.0.1.zip.z01](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/baddiesreloadedofficial-2.0.1.zip.z01)
 - [Download baddiesreloadedofficial-2.0.1.zip.z02](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/baddiesreloadedofficial-2.0.1.zip.z02)
 - [Download baddiesreloadedofficial-2.0.1.zip.z03](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/baddiesreloadedofficial-2.0.1.zip.z03)
