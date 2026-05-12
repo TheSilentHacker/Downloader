@@ -1,5 +1,5 @@
 # 📥 Wget Download Links
-Generated on: Tue May 12 21:28:29 UTC 2026
+Generated on: Tue May 12 21:34:31 UTC 2026
 
 - [Download FunkHub.Setup.0.6.7.exe.z01](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/FunkHub.Setup.0.6.7.exe.z01)
 - [Download FunkHub.Setup.0.6.7.exe.z02](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/FunkHub.Setup.0.6.7.exe.z02)
@@ -39,3 +39,25 @@ Generated on: Tue May 12 21:28:29 UTC 2026
 - [Download security_dlc_102.zip.z01](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/security_dlc_102.zip.z01)
 - [Download security_dlc_102.zip.z02](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/security_dlc_102.zip.z02)
 - [Download security_dlc_102.zip.zip](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/security_dlc_102.zip.zip)
+- [Download vs_impostor_legacy_103b.zip.z01](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z01)
+- [Download vs_impostor_legacy_103b.zip.z02](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z02)
+- [Download vs_impostor_legacy_103b.zip.z03](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z03)
+- [Download vs_impostor_legacy_103b.zip.z04](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z04)
+- [Download vs_impostor_legacy_103b.zip.z05](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z05)
+- [Download vs_impostor_legacy_103b.zip.z06](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z06)
+- [Download vs_impostor_legacy_103b.zip.z07](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z07)
+- [Download vs_impostor_legacy_103b.zip.z08](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z08)
+- [Download vs_impostor_legacy_103b.zip.z09](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z09)
+- [Download vs_impostor_legacy_103b.zip.z10](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z10)
+- [Download vs_impostor_legacy_103b.zip.z11](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z11)
+- [Download vs_impostor_legacy_103b.zip.z12](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z12)
+- [Download vs_impostor_legacy_103b.zip.z13](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z13)
+- [Download vs_impostor_legacy_103b.zip.z14](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z14)
+- [Download vs_impostor_legacy_103b.zip.z15](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z15)
+- [Download vs_impostor_legacy_103b.zip.z16](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z16)
+- [Download vs_impostor_legacy_103b.zip.z17](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z17)
+- [Download vs_impostor_legacy_103b.zip.z18](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z18)
+- [Download vs_impostor_legacy_103b.zip.z19](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z19)
+- [Download vs_impostor_legacy_103b.zip.z20](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z20)
+- [Download vs_impostor_legacy_103b.zip.z21](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.z21)
+- [Download vs_impostor_legacy_103b.zip.zip](https://github.com/TheSilentHacker/Downloader/raw/wget/wget/vs_impostor_legacy_103b.zip.zip)
